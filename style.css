@@ -1,0 +1,16 @@
+.text{
+    color: red;
+}
+
+#first{
+    background-color: red;
+    color: white;
+}
+
+
+header{
+    font-weight: bold;
+}
+header:hover{
+    background-color:cornflowerblue;
+}
